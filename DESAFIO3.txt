@@ -1,0 +1,35 @@
+HEADER
+
+header h1 = IGUANAS -->BLANCO, TAMAÑO, FUENTE
+h1
+
+
+MAIN
+main IMAGEN TAMAÑO
+
+SECCION
+section p
+section imgTEXTO - IMAGEN
+
+SECCION
+TITULO - ICONOS - TEXTO
+
+SECCION
+width=
+height=
+padding: xrem
+display: inline-block; right: 50%;
+3 IMAGENES EN LINEA
+
+
+FOOTER
+bg color
+padding: 10px
+height
+font-size
+line-height
+font-weight
+
+LINK
+text
+color
